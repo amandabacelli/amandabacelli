@@ -1,9 +1,11 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1588262851/8816/meow_bread_appear.gif?1588262851" width="30"/> Hi! </h1>
 ==========================================================================================================================================
 
+I work as a **Backend Developer** at [Mercado Livre](https://www.mercadolivre.com.br/)
 
-My name is Amanda Bacelli. I work as a Backend Developer at Mercado Livre.
+### Find me 
+- Linkedin: https://www.linkedin.com/in/amandabacelli/
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=amandabacelli&repo=amandabacelli&countColorcountColor)
 
