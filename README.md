@@ -1,6 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1588262851/8816/meow_bread_appear.gif?1588262851" width="30"/> Hi! </h1>
-==========================================================================================================================================
+
 
 I work as a **Backend Developer** at [Mercado Livre](https://www.mercadolivre.com.br/)
 
